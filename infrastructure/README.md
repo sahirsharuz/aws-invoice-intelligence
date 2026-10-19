@@ -5,7 +5,7 @@
 Invoice AI uses AWS serverless services to extract, normalize,
 store, and query invoice information.
 
-![Invoice AI AWS Architecture](infrastructure/aws-architecture.png)
+![Invoice AI AWS Architecture](README.md/aws-architecture.png)
 
 ### Core Technologies
 
